@@ -1,6 +1,6 @@
 body {
     font-size: 16px;
-    font-family: 华文楷体; 
+    font-family: 幼圆; 
     font-weight: normal;
     line-height: 1.5;
 }
@@ -33,7 +33,7 @@ blockquote {
 }
 
 code {
-    font-family: 华文楷体;
+    font-family: 幼圆;
     background-color: rgba(230, 230, 230, 0.5);
     border-radius: 2px;
     white-space: pre-wrap;
