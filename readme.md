@@ -1,1 +1,1 @@
-[![_readme.svg](_readme.svg)](../..)
+<a><img src='_readme.svg'/></a>
