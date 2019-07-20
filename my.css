@@ -1,0 +1,65 @@
+body {
+    font-size: 16px;
+    font-family: 华文楷体; 
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+h1 {
+    background-image: url('./紙背景花紋模糊.jpg');
+    border: 1px solid rgba(0,0,0,0);
+    box-shadow: 0px 0px 10px #aaa;
+    /* border-radius: 999px; */
+    overflow:hidden;
+    display: block;
+    padding-left: 20px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+}
+
+h2 {
+    padding-top: 2%;
+    border-bottom: solid 1px #ddd;
+}
+
+
+blockquote {
+    margin-left: 0%;
+    padding-left: 1.2rem;
+    border-left: 0.4rem solid #bcbcbc;
+    color: #898989;
+}
+
+code {
+    font-family: 华文楷体;
+    background-color: rgba(230, 230, 230, 0.5);
+    border-radius: 2px;
+    white-space: pre-wrap;
+    word-break: break-all;
+    word-wrap: break-word;
+    margin: 2px;
+    padding: 2px;
+    padding-top: 3px;
+}
+
+pre>code {
+    display: block;
+    margin: 0 0.29412em;
+    padding: 1.05rem 1.2rem;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table td, table th {
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+}
+
+img {
+    max-width: 100%;
+}
